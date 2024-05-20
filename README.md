@@ -24,7 +24,7 @@
   <ol>
     <li>Clone this repository to your local machine:</li>
   </ol>
-  <pre><code>git clone https://github.com/your-username/partition-and-clustering-r.git</code></pre>
+  <pre><code>git clone https://github.com/DharshanSR/partition-and-clustering-r.git</code></pre>
   
   <ol start="2">
     <li>Open the R script containing the code.</li>
